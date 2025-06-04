@@ -1,0 +1,11 @@
+pdfplumber
+pytesseract
+pdf2image
+google-generativeai
+flask
+flask_cors
+gunicorn
+mediapipe
+os
+numpy
+base64
