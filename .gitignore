@@ -1,0 +1,15 @@
+# Node modules (React frontend)
+resume-score-front/node_modules/
+resume-score-front/build/
+
+# Python cache (Flask backend)
+backend/__pycache__/
+backend/*.pyc
+backend/.venv/
+backend/.env
+
+# General
+.env
+*.log
+.DS_Store
+.vscode/
